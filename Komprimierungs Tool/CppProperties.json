@@ -1,0 +1,152 @@
+{
+
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Debug",
+      "includePath": [
+        "${env.INCLUDE}",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\include",
+        "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree\\impl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include\\boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\lib",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\share",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\bin",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include"
+
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "msvc-x86"
+    },
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Release",
+      "includePath": [
+        "${env.INCLUDE}",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\include",
+        "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree\\impl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include\\boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\lib",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\share",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\bin",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include"
+
+      ],
+      "defines": [
+        "WIN32",
+        "NDEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "msvc-x86"
+    },
+    {
+      "inheritEnvironments": [
+        "msvc_x64"
+      ],
+      "name": "x64-Debug",
+      "includePath": [
+        "${env.INCLUDE}",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\include",
+        "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree\\impl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include\\boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\lib",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\share",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\bin",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include"
+
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "msvc-x64"
+    },
+    {
+      "inheritEnvironments": [
+        "msvc_x64"
+      ],
+      "name": "x64-Release",
+      "includePath": [
+        "${env.INCLUDE}",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\include",
+        "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree\\impl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl\\kdtree",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8\\pcl",
+        "C:\\Program Files\\PCL 1.8.1\\include\\pcl-1.8",
+        "C:\\Program Files\\PCL 1.8.1",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\include\\boost",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\lib",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Boost\\share",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\bin",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen\\include\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\Eigen",
+        "C:\\Program Files\\PCL 1.8.1\\3rdParty\\FLANN\\include"
+
+      ],
+      "defines": [
+        "WIN32",
+        "NDEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "msvc-x64"
+    }
+  ]
+}
