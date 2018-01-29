@@ -11,7 +11,7 @@ AssemblyInfo.cpp(38): warning C4947: "System::Security::Permissions::SecurityAct
   Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.dll
   Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.dll
   Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.xml.dll
-  Hinweis: Einlesen der Datei: c:\users\nenns\source\repos\gestenerkennung\depthvideocs\dsbridge\DSBridge.h
+  Hinweis: Einlesen der Datei: c:\users\nenns\documents\github\gestenerkennung\gestenerkennung\gestenerkennung\depthvideocs\dsbridge\DSBridge.h
   Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\windows.h
   Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winapifamily.h
   Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winpackagefamily.h
@@ -349,4 +349,4 @@ DSBridge.cpp(125): warning C4244: "Initialisierung": Konvertierung von "float" i
 DSBridge.cpp(126): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
   .NETFramework,Version=v4.0.AssemblyAttributes.cpp
   Hinweis: Einlesen der Datei: c:\windows\microsoft.net\framework\v4.0.30319\mscorlib.dll
-  DSBridge.vcxproj -> C:\Users\nenns\source\repos\Gestenerkennung\depthVideoCS\DSBridge\..\depthVideoCS\bin\Release\DSBridge.dll
+  DSBridge.vcxproj -> C:\Users\nenns\Documents\GitHub\Gestenerkennung\Gestenerkennung\Gestenerkennung\depthVideoCS\DSBridge\..\depthVideoCS\bin\Release\DSBridge.dll
