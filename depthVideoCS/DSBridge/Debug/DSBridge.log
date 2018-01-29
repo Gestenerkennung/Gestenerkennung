@@ -1,0 +1,7 @@
+﻿  AssemblyInfo.cpp
+  DSBridge.cpp
+DSBridge.cpp(126): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+DSBridge.cpp(127): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  DSBridge.vcxproj -> C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\Debug\DSBridge.dll

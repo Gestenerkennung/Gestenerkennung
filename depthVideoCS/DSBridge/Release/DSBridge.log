@@ -1,0 +1,352 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  AssemblyInfo.cpp
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.xml.dll
+AssemblyInfo.cpp(38): warning C4947: "System::Security::Permissions::SecurityAction::RequestMinimum": als veraltet markiert.
+  AssemblyInfo.cpp(38): note: Meldung: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  DSBridge.cpp
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\mscorlib.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.data.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.dll
+  Hinweis: Einlesen der Datei: c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.xml.dll
+  Hinweis: Einlesen der Datei: c:\users\nenns\source\repos\gestenerkennung\depthvideocs\dsbridge\DSBridge.h
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\windows.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winapifamily.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winpackagefamily.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\sdkddkver.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\excpt.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\sal.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\concurrencysal.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vadefs.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\stdarg.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\windef.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings_strict.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\specstrings_undef.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\driverspecs.h
+  Hinweis: Einlesen der Datei:       c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdv_driverspecs.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnt.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\ctype.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wctype.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\kernelspecs.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\guiddef.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memory.h
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_memcpy_s.h
+  Hinweis: Einlesen der Datei:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\errno.h
+  Hinweis: Einlesen der Datei:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_string.h
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstring.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\apiset.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\ktmtypes.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winbase.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\apisetcconv.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\minwinbase.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processenv.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\fileapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\debugapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\utilapiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\handleapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\errhandlingapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\fibersapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\namedpipeapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\profileapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\heapapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ioapiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\synchapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\interlockedapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processthreadsapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\sysinfoapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\memoryapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\enclaveapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\threadpoollegacyapiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\threadpoolapiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\jobapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\jobapi2.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wow64apiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\libloaderapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\securitybaseapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\namespaceapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\systemtopologyapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\processtopologyapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\securityappcontainer.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\realtimeapiset.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winerror.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\timezoneapi.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wingdi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winuser.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack2.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\tvout.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnls.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\datetimeapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\stringapiset.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnls.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wincon.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\consoleapi.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winver.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\verrsrc.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winreg.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\reason.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnetwk.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wnnc.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\cderr.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dde.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ddeml.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dlgs.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\lzexpand.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsystem.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mciapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmiscapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmiscapi2.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\playsoundapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmeapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\timeapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\joystickapi.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mmsyscom.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\nb30.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpc.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcdce.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcdcep.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\rpcnsi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcnterr.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcasync.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shellapi.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winperf.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winsock.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\inaddr.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\wincrypt.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\bcrypt.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ncrypt.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dpapi.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winefs.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winscard.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wtypes.h
+  Hinweis: Einlesen der Datei:     c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\rpcndr.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\rpcnsip.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\rpcsal.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\wtypesbase.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winioctl.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\winsmcrd.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winspool.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack4.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ole2.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objbase.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\combaseapi.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdlib.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_malloc.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_search.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stddef.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdlib.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\limits.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\unknwnbase.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objidlbase.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\guiddef.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\cguid.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\coml2api.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objidl.h
+  Hinweis: Einlesen der Datei:       c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\propidlbase.h
+  Hinweis: Einlesen der Datei:       c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oaidl.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\urlmon.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleidl.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+  Hinweis: Einlesen der Datei:      c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\propidl.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\oleauto.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack8.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\commdlg.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\pshpack1.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\poppack.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\stralign.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winsvc.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\mcx.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\imm.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ime_cmodes.h
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wstdio.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_stdio_config.h
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vector
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xmemory
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xmemory0
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cstdint
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\yvals.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xkeycheck.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\crtdefs.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\use_ansi.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\stdint.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cstdlib
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_math.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\limits
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\ymath.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cfloat
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\float.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\climits
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cmath
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xtgmath.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xtr1common
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cwchar
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\wchar.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wconio.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wdirect.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wio.h
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_share.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wprocess.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_wtime.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/stat.h
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\sys/types.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xstddef
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cstddef
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\initializer_list
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\new
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\exception
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\type_traits
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\malloc.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_exception.h
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\eh.h
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\corecrt_terminate.h
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_new.h
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xutility
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\utility
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\iosfwd
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cstdio
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cstring
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\crtdbg.h
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_new_debug.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xatomic0.h
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\intrin0.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\stdexcept
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xstring
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\math.h
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSense.hxx
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\string
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\istream
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\ostream
+  Hinweis: Einlesen der Datei:      C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\ios
+  Hinweis: Einlesen der Datei:       C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xlocnum
+  Hinweis: Einlesen der Datei:        C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\streambuf
+  Hinweis: Einlesen der Datei:         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xiosbase
+  Hinweis: Einlesen der Datei:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xlocale
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\typeinfo
+  Hinweis: Einlesen der Datei:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_typeinfo.h
+  Hinweis: Einlesen der Datei:             C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime.h
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xlocinfo
+  Hinweis: Einlesen der Datei:            C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xlocinfo.h
+  Hinweis: Einlesen der Datei:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\locale.h
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xfacet
+  Hinweis: Einlesen der Datei:          C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\system_error
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cerrno
+  Hinweis: Einlesen der Datei:           C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xcall_once.h
+  Hinweis: Einlesen der Datei:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\share.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xstring_insert.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSenseVersion.hxx
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSenseAPI.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSenseTypes.h
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\cinttypes
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\inttypes.h
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\functional
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\tuple
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\xfunctional
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\Pointer.hxx
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\String.hxx
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\Vector.hxx
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\Type.hxx
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\Property.hxx
+  Hinweis: Einlesen der Datei:    C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\Event.hxx
+  Hinweis: Einlesen der Datei:     C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\EventHandler.hxx
+C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx(940): warning C4275: class "std::exception" ist keine DLL-Schnittstelle und wurde als Basisklasse für die DLL-Schnittstelle class "DepthSense::Exception" verwendet
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\vcruntime_exception.h(43): note: Siehe Deklaration von "std::exception"
+  C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx(939): note: Siehe Deklaration von "DepthSense::Exception"
+  Hinweis: Einlesen der Datei:   C:\Program Files (x86)\SoftKinetic\DepthSenseSDK\include\PropertyPost.hxx
+  Hinweis: Einlesen der Datei:  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.12.25827\include\algorithm
+DSBridge.cpp(125): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+DSBridge.cpp(126): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Hinweis: Einlesen der Datei: c:\windows\microsoft.net\framework\v4.0.30319\mscorlib.dll
+  DSBridge.vcxproj -> C:\Users\nenns\source\repos\Gestenerkennung\depthVideoCS\DSBridge\..\depthVideoCS\bin\Release\DSBridge.dll
