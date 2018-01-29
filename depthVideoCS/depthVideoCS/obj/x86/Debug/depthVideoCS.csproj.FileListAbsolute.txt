@@ -1,0 +1,35 @@
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\bin\Debug\depthVideoCS.exe
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\bin\Debug\depthVideoCS.pdb
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\bin\Debug\DSBridge.dll
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\bin\Debug\DSBridge.pdb
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csprojResolveAssemblyReference.cache
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Form1.resources
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Properties.Resources.resources
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csproj.GenerateResource.Cache
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.exe
+C:\Users\Zaerax\Desktop\test\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.pdb
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.exe
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.pdb
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\bin\Debug\depthVideoCS.exe
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\bin\Debug\depthVideoCS.pdb
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\bin\Debug\DSBridge.dll
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Form1.resources
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Properties.Resources.resources
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csproj.GenerateResource.Cache
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\bin\Debug\depthVideoCS.exe.config
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csproj.CoreCompileInputs.cache
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\Release\depthVideoCS.exe.config
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\Release\depthVideoCS.exe
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\Release\depthVideoCS.pdb
+C:\Users\nenns\Desktop\depthVideoCS\depthVideoCS\Release\DSBridge.dll
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\Release\depthVideoCS.exe.config
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\Release\depthVideoCS.exe
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\Release\depthVideoCS.pdb
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\Release\DSBridge.dll
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csprojResolveAssemblyReference.cache
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Form1.resources
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.Properties.Resources.resources
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csproj.GenerateResource.Cache
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.csproj.CoreCompileInputs.cache
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.exe
+C:\Users\nenns\Desktop\aktuelle Version-20180122T122101Z-001\aktuelle Version\depthVideoCS\depthVideoCS\obj\x86\Debug\depthVideoCS.pdb

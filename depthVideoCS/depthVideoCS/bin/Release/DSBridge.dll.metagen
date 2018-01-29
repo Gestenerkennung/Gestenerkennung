@@ -1,0 +1,41 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly DSBridge, Version=1.0.*, Culture=Invariante Sprache (Invariantes Land): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct DSB.DSPoint: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct DSB.DSPointFC: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class DSB.DSPointCloud: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    addPoint(DSPoint): PrivateScope, Public, HideBySig
+    getPoint(Int32): PrivateScope, Public, HideBySig
+    getSize(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class DSB.PCDVideoPlayback: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class DSB.DSBridge: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    init(): PrivateScope, Public, Static, HideBySig
+    destroy(): PrivateScope, Public, Static, HideBySig
+    run(): PrivateScope, Public, Static, HideBySig
+    quit(): PrivateScope, Public, Static, HideBySig
+    getCachedRGB(): PrivateScope, Public, Static, HideBySig
+    getRGBCount(): PrivateScope, Public, Static, HideBySig
+    getDepthCount(): PrivateScope, Public, Static, HideBySig
+    resetVideoCapture(): PrivateScope, Public, Static, HideBySig
+    startVideoCapture(Int32): PrivateScope, Public, Static, HideBySig
+    getCaptureProgress(): PrivateScope, Public, Static, HideBySig
+    getVideo(): PrivateScope, Public, Static, HideBySig
+    saveToPCDs(Int32, Int32): PrivateScope, Public, Static, HideBySig
