@@ -1,0 +1,10 @@
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\bin\Debug\PCD_Combinder.exe.config
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\bin\Debug\PCD_Combinder.exe
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\bin\Debug\PCD_Combinder.pdb
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.csprojResolveAssemblyReference.cache
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.Form1.resources
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.Properties.Resources.resources
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.csproj.GenerateResource.Cache
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.csproj.CoreCompileInputs.cache
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.exe
+C:\Users\nenns\source\repos\PCD_Combinder\PCD_Combinder\obj\Debug\PCD_Combinder.pdb
