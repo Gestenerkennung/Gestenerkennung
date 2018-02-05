@@ -31,7 +31,7 @@ display_step = 4
 
 # Network Parameters
 n_input = 625   # data is (img feature shape : 625 descriptors * 40 frames)
-n_steps = 40    # timesteps
+n_steps = 80    # timesteps
 n_hidden = args.cells  # hidden layer num of features
 n_classes = 4   # gesture recognition total classes (1-4 classes)
 n_layers = args.layers
@@ -119,22 +119,23 @@ with tf.Session() as sess:
         for n in range (0, batch_size):
             
             rand_n = np.random.random_integers(0, len(data)-1)
+
             #print rand_n
             data_x.append(data[rand_n,:,:])
             
-            if(0<= rand_n < 20):
+            if(0<= rand_n < 100):
                 label_y.append([1,0,0,0])
                 one+=1
                 
-            elif(20<= rand_n < 40):
+            elif(100<= rand_n < 200):
                 label_y.append([0,1,0,0])
                 two+=1
                 
-            elif(40<= rand_n < 60):
+            elif(200<= rand_n < 300):
                 label_y.append([0,0,1,0])
                 three+=1
                 
-            elif(60<= rand_n < 80):
+            elif(300<= rand_n < 400):
                 label_y.append([0,0,0,1])
                 four+=1
             
@@ -142,9 +143,9 @@ with tf.Session() as sess:
             # Keep training until reach max iterations for the batches
         #while step < 2: 
         batch_x = np.array(data_x)
-            #print ("batch size--",np.array(label_y).shape)
                 
         batch_y = np.array(label_y)
+        #print ("batch size--",batch_y.shape)
         batch_x = batch_x.reshape((batch_size, n_steps, n_input))
         batch_y = batch_y.reshape((batch_size,n_classes))
             #print (batch_y.shape)

@@ -31,7 +31,7 @@ display_step = 4
 
 # Network Parameters
 n_input = 625   # data is (img feature shape : 625 descriptors * 40 frames)
-n_steps = 40    # timesteps
+n_steps = 80    # timesteps
 n_hidden = args.cells  # hidden layer num of features
 n_classes = 4   # gesture recognition total classes (1-4 classes)
 n_layers = args.layers
