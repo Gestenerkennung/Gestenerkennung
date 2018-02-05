@@ -25,16 +25,17 @@ for i in range(0,4):
         counter=0
         # iteration over samples
         while((counter<100)):
-            j=0
             f=path+'lcc_p1_k'+str(i)+'_g'+str(counter)+'.txt'
             if Path(f).exists() == False:
-                f='test/'+'lcc_p1_k3_g6.txt'
+                f='test/'+'test_vector.txt'
                 print (f)
                 counter+=1
                 with open(f) as f:
-                    st=line.split(" ")
-                    arr2[0,j,:]=(st[0:625])
-                    j+=1
+                    j = 0
+                    for line in f:
+                        st=line.split(" ")
+                        arr2[0,j,:]=(st[0:625])
+                        j+=1
                 continue
             # iteration over frames
             j=0

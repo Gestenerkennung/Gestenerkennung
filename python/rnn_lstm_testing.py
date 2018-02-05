@@ -145,15 +145,15 @@ with tf.Session() as sess:
         prediction_vector = sess.run(test_pred, feed_dict={x: batch_x, y: batch_y})
         ###### Calculate the max of the pred vector
         print ("Prediction Vector---", prediction_vector)
-        maximum = np.amin(prediction_vector, axis=1)
+        maximum = np.amax(prediction_vector, axis=1)
         if maximum == prediction_vector[0][0]:
-            print("Geste 1")
+            print("Geste 0 (0-3)")
         elif maximum == prediction_vector[0][1]:
-            print("Geste 2")
+            print("Geste 1 (0-3)")
         elif maximum == prediction_vector[0][2]:
-            print("Geste 3")
+            print("Geste 2 (0-3)")
         elif maximum == prediction_vector[0][3]:
-            print("Geste 4")
+            print("Geste 3 (0-3)")
         #list_max.append(maximum)
         
         # Calculate batch accuracy
