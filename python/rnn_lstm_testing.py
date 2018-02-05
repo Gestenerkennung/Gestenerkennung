@@ -147,13 +147,13 @@ with tf.Session() as sess:
         print ("Prediction Vector---", prediction_vector)
         maximum = np.amax(prediction_vector, axis=1)
         if maximum == prediction_vector[0][0]:
-            print("Geste 0 (0-3)")
+            print("Geste 0 [0-3] - Hand öffnen")
         elif maximum == prediction_vector[0][1]:
-            print("Geste 1 (0-3)")
+            print("Geste 1 [0-3] - Hand schließen")
         elif maximum == prediction_vector[0][2]:
-            print("Geste 2 (0-3)")
+            print("Geste 2 [0-3] - Pinch in")
         elif maximum == prediction_vector[0][3]:
-            print("Geste 3 (0-3)")
+            print("Geste 3 [0-3] - Pinch out")
         #list_max.append(maximum)
         
         # Calculate batch accuracy
